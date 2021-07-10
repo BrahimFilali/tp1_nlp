@@ -1,3 +1,5 @@
 # tp1_nlp
-to start please click here :
-https://mybinder.org/v2/gh/BrahimFilali/tp1_nlp/5cba5ffb901596cd516b1d7bea2f532c5d7606aa
+#to start NLTK  please click here :
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BrahimFilali/tp1_nlp/main?filepath=NLTK.ipynb)
+#to start Spacy  please click here :
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BrahimFilali/tp1_nlp/main?filepath=SPACY%20_tp.ipynb)
